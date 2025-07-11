@@ -1,0 +1,6 @@
+,Precision,Precision,Recall,Recall,F1-Score,F1-Score,Accuracy,Accuracy
+,MNIST,CIFAR,MNIST,CIFAR,MNIST,CIFAR,MNIST,CIFAR
+Defense 1,0.92,0.89,0.9,0.88,0.91,0.88,0.93,0.9
+Defense 2,0.85,0.81,0.82,0.8,0.83,0.8,0.84,0.82
+Defense 3,0.88,0.84,0.86,0.83,0.87,0.83,0.89,0.85
+Defense 4,0.91,0.87,0.89,0.85,0.9,0.86,0.92,0.88
